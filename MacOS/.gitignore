@@ -1,5 +1,7 @@
 build*/
 *.kdev4
 *~
-debug_BUILD*
-release_BUILD*
+/debug_BUILD*
+/release_BUILD*
+/debug_EXECUTABLE*
+/release_EXECUTABLE*

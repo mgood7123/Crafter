@@ -2,7 +2,7 @@
 // Created by Matthew Good on 29/5/21.
 //
 
-#include <PackageDemos.h>
+#include <Crafter/PackageDemos.h>
 
 int argc = 0;
 char ** argv = nullptr;
