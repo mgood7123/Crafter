@@ -9,6 +9,6 @@ char ** argv = nullptr;
 
 CRAFTER_PACKAGE_MAIN(
     unused,
-    Crafter::Packages::Polygon,
+    Crafter::Packages::CubeWithCamera,
     argc, argv
 )
