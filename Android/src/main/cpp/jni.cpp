@@ -9,7 +9,7 @@ char ** argv = nullptr;
 
 CRAFTER_PACKAGE_MAIN(
         Java_com_smallville7123_crafter_MagnumEGLSurfaceView_00024MagnumRenderer,
-        Crafter::Demo::Packages::CubeWithCamera,
+        Crafter::Demo::Packages::BlueprintDemo,
         argc, argv
 )
 
