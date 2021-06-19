@@ -4,7 +4,14 @@
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Crafter_SDK" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Crafter_SDK/Crafter_Magnum/corrade" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Crafter_SDK/Crafter_Magnum/freetype-cmake" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Crafter_SDK/Crafter_Magnum/freetype-cmake/brotli" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Crafter_SDK/Crafter_Magnum/freetype-cmake/bzip2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Crafter_SDK/Crafter_Magnum/freetype-cmake/harfbuzz" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Crafter_SDK/Crafter_Magnum/freetype-cmake/libpng" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Crafter_SDK/Crafter_Magnum/magnum" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Crafter_SDK/Crafter_Magnum/magnum-extras" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Crafter_SDK/Crafter_Magnum/magnum-plugins" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Crafter_SDK/Crafter_Magnum/toolchains" vcs="Git" />
   </component>
 </project>
