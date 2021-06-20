@@ -9,6 +9,7 @@ char ** argv = nullptr;
 
 CRAFTER_PACKAGE_MAIN(
     unused,
-    Crafter::Demo::Packages::BlueprintDemo,
+//    Crafter::Demo::Packages::BlueprintDemo,
+    Crafter::Demo::Packages::UI,
     argc, argv
 )
